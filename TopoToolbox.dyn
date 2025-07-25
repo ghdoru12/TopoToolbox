@@ -1,2 +1,13 @@
-// Placeholder for TopoToolbox.dyn
-// Fully commented script will go here
+
+// TopoToolbox.dyn - General-purpose Toposolid editor (Revit 2024+, Dynamo 2.17+)
+// Author: ghdoru12
+
+// Modules to implement:
+// 1. Toposolid selection
+// 2. Axis selection (Model Line / Detail Line)
+// 3. Generate transversal sections
+// 4. Apply profile: slope, ditch, embankment
+// 5. Trim or elevate based on intersections
+// 6. Reconstruct or edit Toposolid via Landform
+
+// This file is a scaffold. Detailed logic and nodes will be added here.
