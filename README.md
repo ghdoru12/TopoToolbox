@@ -1,2 +1,2 @@
 # TopoToolbox
-dynamo toposolid adjust
+General-purpose Dynamo script for terrain modelling and Toposolid editing in Revit
